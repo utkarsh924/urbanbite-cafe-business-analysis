@@ -79,3 +79,8 @@ This project demonstrates practical skills in:
 **Utkarsh Singh**
 
 Aspiring Business & Data Analyst focused on **Data × Digital Marketing × AI**.
+
+
+## 📊 Dashboard Preview
+
+![UrbanBite Cafe Dashboard](Screenshot%202026-09-02%20133049.png)
